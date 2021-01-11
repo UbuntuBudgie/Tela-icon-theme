@@ -1,7 +1,8 @@
-<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <g transform='translate(-613 23)'>
-        <path color='#bebebe' d='M615-9v-12c0-1 1-1 1-1h10s1 0 1 1v12c0 1-1 1-1 1h-10s-1 0-1-1zm1-.5c0 .5.5.5.5.5h9s.5 0 .5-.5v-11c0-.5-.5-.5-.5-.5h-9c-.5 0-.5.5-.5.5z' fill='#5d656b' overflow='visible' style='marker:none'/>
-        <path color='#000' d='M620.406-18a.517.517 0 0 0-.406.5v2.5h-1.5c-.369.011-.606.524-.375.813l2.5 3a.522.522 0 0 0 .75 0l2.5-3c.231-.289-.006-.802-.375-.813H622v-2.5a.52.52 0 0 0-.5-.5h-1a.506.506 0 0 0-.094 0z' fill='#5d656b' font-family='Sans' font-weight='400' overflow='visible' style='line-height:normal;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration-line:none;text-transform:none;marker:none'/>
-        
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#555555; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 5.9980469 1.0195312 L 5.9980469 7.0195312 L 3.6582031 7.0195312 L 7.9902344 13.324219 L 12.371094 7.0195312 L 9.9980469 7.0195312 L 9.9980469 1.0488281 L 5.9980469 1.0195312 z M 1 14.03125 L 1 16 L 15.005859 16 L 15 14.03125 L 1 14.03125 z"/>
 </svg>
